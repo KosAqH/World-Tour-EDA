@@ -91,6 +91,8 @@ def create_show_list(df: pd.DataFrame) -> pd.DataFrame:
         df_show_tmp["Tour title"] = row["Tour title"]
         
         df_shows = pd.concat([df_shows, df_show_tmp])
+    df_shows = df_shows.reset_index(drop=True)
+    df_shows = fix_wrong_names(df_shows)
     return df_shows
 
 def get_geolocation(df: pd.DataFrame):
