@@ -3014,7 +3014,7 @@
 3012,3014,Hong Kong,Hong Kong,AsiaWorld–Arena,May 13,Bruno Mars,24K Magic World Tour,22.2793278,114.1628131,Asia
 3013,3016,United States,Napa,BottleRock Napa Valley,May 27[b],Bruno Mars,24K Magic World Tour,38.2971367,-122.2855293,North America
 3014,3017,Belgium,Werchter,Festivalpark Werchter,June 16[c],Bruno Mars,24K Magic World Tour,50.970584,4.6937963,Europe
-3015,3018,Netherlands,Landgraaf,Megaland Landgraaf,June 17[d],Bruno Mars,24K Magic World Tour,,,Europe
+3015,3018,Netherlands,Landgraaf,Megaland Landgraaf,June 17[d],Bruno Mars,24K Magic World Tour,50.9080845,6.0264604,Europe
 3016,3019,Spain,Barcelona,Estadi Olímpic Lluís Companys,June 20,Bruno Mars,24K Magic World Tour,41.3828939,2.1774322,Europe
 3017,3020,Spain,Madrid,Wanda Metropolitano,June 22,Bruno Mars,24K Magic World Tour,40.4167047,-3.7035825,Europe
 3018,3021,Portugal,Lisbon,Parque da Bela Vista,June 24[e],Bruno Mars,24K Magic World Tour,38.7077507,-9.1365919,Europe
@@ -3181,16 +3181,16 @@
 3179,3182,France,Nantes,Stade de la Beaujoire,10 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,47.2186371,-1.5541362,Europe
 3180,3183,Netherlands,Rotterdam,Feijenoord Stadion,13 June 1988[j],Pink Floyd,A Momentary Lapse of Reason Tour,51.9244424,4.47775,Europe
 3181,3184,Netherlands,Rotterdam,Feijenoord Stadion,14 June 1988[j],Pink Floyd,A Momentary Lapse of Reason Tour,51.9244424,4.47775,Europe
-3182,3185,Germany,Berlin,Reichstagsgelände,16 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,53.9294049,9.5141165,Europe
-3183,3186,Germany,Mannheim,Maimarktgelände,18 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,49.50329605,8.461925417571244,Europe
+3182,3185,Germany,Berlin,Reichstagsgelände,16 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,52.5170365,13.3888599,Europe
+3183,3186,Germany,Mannheim,Maimarktgelände,18 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,49.4892913,8.4673098,Europe
 3184,3187,France,Versailles,Palace of Versailles,21 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,48.8035403,2.1266886,Europe
 3185,3188,France,Versailles,Palace of Versailles,22 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,48.8035403,2.1266886,Europe
-3186,3189,Germany,Hanover,Niedersachsenstadion,25 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,,,Europe
-3187,3190,Germany,Dortmund,Westfalenhallen,27 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,50.1106349,8.5388093,Europe
-3188,3191,Germany,Dortmund,Westfalenhallen,28 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,50.1106349,8.5388093,Europe
-3189,3192,Germany,Dortmund,Westfalenhallen,29 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,50.1106349,8.5388093,Europe
+3186,3189,Germany,Hanover,Niedersachsenstadion,25 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,52.3744779,9.7385532,Europe
+3187,3190,Germany,Dortmund,Westfalenhallen,27 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,51.5142273,7.4652789,Europe
+3188,3191,Germany,Dortmund,Westfalenhallen,28 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,51.5142273,7.4652789,Europe
+3189,3192,Germany,Dortmund,Westfalenhallen,29 June 1988,Pink Floyd,A Momentary Lapse of Reason Tour,51.5142273,7.4652789,Europe
 3190,3193,Austria,Vienna,Ernst-Happel-Stadion,1 July 1988[j],Pink Floyd,A Momentary Lapse of Reason Tour,48.2083537,16.3725042,Europe
-3191,3194,Germany,Munich,Olympiastadion München,3 July 1988[j],Pink Floyd,A Momentary Lapse of Reason Tour,48.154140999999996,11.556248381577515,Europe
+3191,3194,Germany,Munich,Olympiastadion München,3 July 1988[j],Pink Floyd,A Momentary Lapse of Reason Tour,48.1371079,11.5753822,Europe
 3192,3195,Italy,Turin,Stadio Olimpico di Torino,6 July 1988,Pink Floyd,A Momentary Lapse of Reason Tour,45.0677551,7.6824892,Europe
 3193,3196,Italy,Modena,Stadio Alberto Braglia,8 July 1988,Pink Floyd,A Momentary Lapse of Reason Tour,44.5384728,10.935960870530739,Europe
 3194,3197,Italy,Modena,Stadio Alberto Braglia,9 July 1988,Pink Floyd,A Momentary Lapse of Reason Tour,44.5384728,10.935960870530739,Europe
@@ -3228,21 +3228,21 @@
 3226,3229,Italy,Cava de' Tirreni,Stadio Simonetta Lamberti,25 May 1989,Pink Floyd,A Momentary Lapse of Reason Tour,40.7004616,14.7062633,Europe
 3227,3230,Italy,Cava de' Tirreni,Stadio Simonetta Lamberti,26 May 1989,Pink Floyd,A Momentary Lapse of Reason Tour,40.7004616,14.7062633,Europe
 3228,3231,Greece,Athens,Olympic Stadium,31 May 1989,Pink Floyd,A Momentary Lapse of Reason Tour,37.9755648,23.7348324,Europe
-3229,3232,Russia,Moscow,Olympic Stadium,3 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,,,Europe
-3230,3233,Russia,Moscow,Olympic Stadium,4 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,,,Europe
-3231,3234,Russia,Moscow,Olympic Stadium,6 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,,,Europe
-3232,3235,Russia,Moscow,Olympic Stadium,7 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,,,Europe
-3233,3236,Russia,Moscow,Olympic Stadium,8 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,,,Europe
+3229,3232,Russia,Moscow,Olympic Stadium,3 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,55.625578,37.6063916,Europe
+3230,3233,Russia,Moscow,Olympic Stadium,4 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,55.625578,37.6063916,Europe
+3231,3234,Russia,Moscow,Olympic Stadium,6 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,55.625578,37.6063916,Europe
+3232,3235,Russia,Moscow,Olympic Stadium,7 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,55.625578,37.6063916,Europe
+3233,3236,Russia,Moscow,Olympic Stadium,8 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,55.625578,37.6063916,Europe
 3234,3237,Finland,Lahti,Lahden Suurhalli,10 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,60.9826014,25.6613764,Europe
 3235,3238,Sweden,Stockholm,Stockholm Globe Arena,12 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,59.3251172,18.0710935,Europe
 3236,3239,Sweden,Stockholm,Stockholm Globe Arena,13 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,59.3251172,18.0710935,Europe
 3237,3240,Sweden,Stockholm,Stockholm Globe Arena,14 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,59.3251172,18.0710935,Europe
-3238,3241,Germany,Hamburg,Festwiese Im Stadtpark,16 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,53.581658,9.9726787,Europe
-3239,3242,Germany,Cologne,Mungersdorfer Stadion,18 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,,,Europe
-3240,3243,Germany,Frankfurt,Festhalle Frankfurt,20 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,50.1050925,8.5859703,Europe
-3241,3244,Germany,Frankfurt,Festhalle Frankfurt,21 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,50.1050925,8.5859703,Europe
+3238,3241,Germany,Hamburg,Festwiese Im Stadtpark,16 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,53.5672881,9.941726150411604,Europe
+3239,3242,Germany,Cologne,Mungersdorfer Stadion,18 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,50.938361,6.959974,Europe
+3240,3243,Germany,Frankfurt,Festhalle Frankfurt,20 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,50.1106444,8.6820917,Europe
+3241,3244,Germany,Frankfurt,Festhalle Frankfurt,21 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,50.1106444,8.6820917,Europe
 3242,3245,Austria,Linz,Linzer Stadion,23 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,48.3059078,14.286198,Europe
-3243,3246,Germany,Stuttgart,Neckarstadion,25 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,48.8928355,9.1651012,Europe
+3243,3246,Germany,Stuttgart,Neckarstadion,25 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,48.7784485,9.1800132,Europe
 3244,3247,France,Paris,Palais Omnisports de Paris-Bercy,27 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,48.8534951,2.3483915,Europe
 3245,3248,France,Paris,Palais Omnisports de Paris-Bercy,28 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,48.8534951,2.3483915,Europe
 3246,3249,France,Paris,Palais Omnisports de Paris-Bercy,29 June 1989,Pink Floyd,A Momentary Lapse of Reason Tour,48.8534951,2.3483915,Europe
@@ -3318,13 +3318,13 @@
 3316,3319,Sweden,Gothenburg,Eriksberg,"June 11, 1988",Michael Jackson,Bad,57.7072326,11.9670171,Europe
 3317,3320,Sweden,Gothenburg,Eriksberg,"June 12, 1988",Michael Jackson,Bad,57.7072326,11.9670171,Europe
 3318,3321,Switzerland,Basel,St. Jakob Stadium,"June 16, 1988",Michael Jackson,Bad,47.5581077,7.5878261,Europe
-3319,3322,Germany,Berlin,Platz der Republik,"June 19, 1988",Michael Jackson,Bad,53.9294049,9.5141165,Europe
+3319,3322,Germany,Berlin,Platz der Republik,"June 19, 1988",Michael Jackson,Bad,52.5170365,13.3888599,Europe
 3320,3323,France,Paris,Parc des Princes,"June 27, 1988",Michael Jackson,Bad,48.8534951,2.3483915,Europe
 3321,3324,France,Paris,Parc des Princes,"June 28, 1988",Michael Jackson,Bad,48.8534951,2.3483915,Europe
-3322,3325,Germany,Hamburg,Volksparkstadion,"July 1, 1988",Michael Jackson,Bad,53.581658,9.9726787,Europe
-3323,3326,Germany,Cologne,Müngersdorfer Stadion,"July 3, 1988",Michael Jackson,Bad,,,Europe
-3324,3327,Germany,Munich,Olympiastadion,"July 8, 1988",Michael Jackson,Bad,48.154140999999996,11.556248381577515,Europe
-3325,3328,Germany,Hockenheim,Hockenheimring,"July 10, 1988",Michael Jackson,Bad,,,Europe
+3322,3325,Germany,Hamburg,Volksparkstadion,"July 1, 1988",Michael Jackson,Bad,53.5672881,9.941726150411604,Europe
+3323,3326,Germany,Cologne,Müngersdorfer Stadion,"July 3, 1988",Michael Jackson,Bad,50.938361,6.959974,Europe
+3324,3327,Germany,Munich,Olympiastadion,"July 8, 1988",Michael Jackson,Bad,48.1371079,11.5753822,Europe
+3325,3328,Germany,Hockenheim,Hockenheimring,"July 10, 1988",Michael Jackson,Bad,49.3188892,8.5475467,Europe
 3326,3329,England,London,Wembley Stadium,"July 14, 1988",Michael Jackson,Bad,51.4893335,-0.14405508452768728,Europe
 3327,3330,England,London,Wembley Stadium,"July 15, 1988",Michael Jackson,Bad,51.4893335,-0.14405508452768728,Europe
 3328,3331,England,London,Wembley Stadium,"July 16, 1988",Michael Jackson,Bad,51.4893335,-0.14405508452768728,Europe
@@ -3339,13 +3339,13 @@
 3337,3340,France,Montpellier,Stade Richter,"August 12, 1988",Michael Jackson,Bad,43.6112422,3.8767337,Europe
 3338,3341,France,Nice,Stade Charles-Ehrmann,"August 14, 1988",Michael Jackson,Bad,43.7009358,7.2683912,Europe
 3339,3342,Switzerland,Lausanne,Stade olympique de la Pontaise,"August 19, 1988",Michael Jackson,Bad,46.5218269,6.6327025,Europe
-3340,3343,Germany,Würzburg,Talavera Mainwiesen,"August 21, 1988",Michael Jackson,Bad,,,Europe
+3340,3343,Germany,Würzburg,Talavera Mainwiesen,"August 21, 1988",Michael Jackson,Bad,49.79245,9.932966,Europe
 3341,3344,Belgium,Werchter,Werchter Festivalpark,"August 23, 1988",Michael Jackson,Bad,50.970584,4.6937963,Europe
 3342,3345,England,London,Wembley Stadium,"August 26, 1988",Michael Jackson,Bad,51.4893335,-0.14405508452768728,Europe
 3343,3346,England,London,Wembley Stadium,"August 27, 1988",Michael Jackson,Bad,51.4893335,-0.14405508452768728,Europe
 3344,3347,England,Leeds,Roundhay Park,"August 29, 1988",Michael Jackson,Bad,53.7974185,-1.5437941,Europe
-3345,3348,Germany,Hannover,Niedersachsenstadion,"September 2, 1988",Michael Jackson,Bad,52.4644264,9.6779412,Europe
-3346,3349,Germany,Gelsenkirchen,Parkstadion,"September 4, 1988",Michael Jackson,Bad,51.5364004,7.026315737091402,Europe
+3345,3348,Germany,Hannover,Niedersachsenstadion,"September 2, 1988",Michael Jackson,Bad,52.3744779,9.7385532,Europe
+3346,3349,Germany,Gelsenkirchen,Parkstadion,"September 4, 1988",Michael Jackson,Bad,51.5110321,7.0960124,Europe
 3347,3350,Austria,Linz,Linzer Stadion,"September 6, 1988",Michael Jackson,Bad,48.3059078,14.286198,Europe
 3348,3351,England,Milton Keynes,Milton Keynes Bowl,"September 10, 1988",Michael Jackson,Bad,52.0406502,-0.7594092,Europe
 3349,3352,England,Liverpool,Aintree Racecourse,"September 11, 1988",Michael Jackson,Bad,53.4071991,-2.99168,Europe
@@ -3470,15 +3470,15 @@
 3468,3471,Netherlands,Rotterdam,De Kuip,18 May 1990,The Rolling Stones,Steel Wheels Tour,51.9244424,4.47775,Europe
 3469,3472,Netherlands,Rotterdam,De Kuip,19 May 1990,The Rolling Stones,Steel Wheels Tour,51.9244424,4.47775,Europe
 3470,3473,Netherlands,Rotterdam,De Kuip,21 May 1990,The Rolling Stones,Steel Wheels Tour,51.9244424,4.47775,Europe
-3471,3474,Germany,Hanover,Niedersachsenstadion,23 May 1990,The Rolling Stones,Steel Wheels Tour,,,Europe
-3472,3475,Germany,Hanover,Niedersachsenstadion,24 May 1990,The Rolling Stones,Steel Wheels Tour,,,Europe
-3473,3476,Germany,Frankfurt,Waldstadion,26 May 1990,The Rolling Stones,Steel Wheels Tour,50.1050925,8.5859703,Europe
-3474,3477,Germany,Frankfurt,Waldstadion,27 May 1990,The Rolling Stones,Steel Wheels Tour,50.1050925,8.5859703,Europe
-3475,3478,Germany,Cologne,Müngersdorfer Stadion,30 May 1990,The Rolling Stones,Steel Wheels Tour,,,Europe
-3476,3479,Germany,Cologne,Müngersdorfer Stadion,31 May 1990,The Rolling Stones,Steel Wheels Tour,,,Europe
-3477,3480,Germany,Munich,Olympiastadion,2 June 1990,The Rolling Stones,Steel Wheels Tour,48.154140999999996,11.556248381577515,Europe
-3478,3481,Germany,Munich,Olympiastadion,3 June 1990,The Rolling Stones,Steel Wheels Tour,48.154140999999996,11.556248381577515,Europe
-3479,3482,Germany,Berlin,Olympiastadion,6 June 1990,The Rolling Stones,Steel Wheels Tour,53.9294049,9.5141165,Europe
+3471,3474,Germany,Hanover,Niedersachsenstadion,23 May 1990,The Rolling Stones,Steel Wheels Tour,52.3744779,9.7385532,Europe
+3472,3475,Germany,Hanover,Niedersachsenstadion,24 May 1990,The Rolling Stones,Steel Wheels Tour,52.3744779,9.7385532,Europe
+3473,3476,Germany,Frankfurt,Waldstadion,26 May 1990,The Rolling Stones,Steel Wheels Tour,50.1106444,8.6820917,Europe
+3474,3477,Germany,Frankfurt,Waldstadion,27 May 1990,The Rolling Stones,Steel Wheels Tour,50.1106444,8.6820917,Europe
+3475,3478,Germany,Cologne,Müngersdorfer Stadion,30 May 1990,The Rolling Stones,Steel Wheels Tour,50.938361,6.959974,Europe
+3476,3479,Germany,Cologne,Müngersdorfer Stadion,31 May 1990,The Rolling Stones,Steel Wheels Tour,50.938361,6.959974,Europe
+3477,3480,Germany,Munich,Olympiastadion,2 June 1990,The Rolling Stones,Steel Wheels Tour,48.1371079,11.5753822,Europe
+3478,3481,Germany,Munich,Olympiastadion,3 June 1990,The Rolling Stones,Steel Wheels Tour,48.1371079,11.5753822,Europe
+3479,3482,Germany,Berlin,Olympiastadion,6 June 1990,The Rolling Stones,Steel Wheels Tour,52.5170365,13.3888599,Europe
 3480,3483,Portugal,Lisbon,Estádio José Alvalade,10 June 1990,The Rolling Stones,Steel Wheels Tour,38.7077507,-9.1365919,Europe
 3481,3484,Spain,Barcelona,Estadi Olímpic de Montjuïc,13 June 1990,The Rolling Stones,Steel Wheels Tour,41.3828939,2.1774322,Europe
 3482,3485,Spain,Barcelona,Estadi Olímpic de Montjuïc,14 June 1990,The Rolling Stones,Steel Wheels Tour,41.3828939,2.1774322,Europe
@@ -3506,10 +3506,10 @@
 3504,3507,Norway,Oslo,Valle Hovin,6 August 1990,The Rolling Stones,Steel Wheels Tour,59.9133301,10.7389701,Europe
 3505,3508,Norway,Oslo,Valle Hovin,7 August 1990,The Rolling Stones,Steel Wheels Tour,59.9133301,10.7389701,Europe
 3506,3509,Denmark,Copenhagen,Københavns Idrætspark,9 August 1990,The Rolling Stones,Steel Wheels Tour,55.6867243,12.5700724,Europe
-3507,3510,Germany,Berlin,Radrennbahn Weissensee,13 August 1990,The Rolling Stones,Steel Wheels Tour,,,Europe
-3508,3511,Germany,Berlin,Radrennbahn Weissensee,14 August 1990,The Rolling Stones,Steel Wheels Tour,,,Europe
-3509,3512,Germany,Gelsenkirchen,Parkstadion,16 August 1990,The Rolling Stones,Steel Wheels Tour,51.5364004,7.026315737091402,Europe
-3510,3513,Czech Republic,Prague,Strahov Stadium,18 August 1990,The Rolling Stones,Steel Wheels Tour,,,Europe
+3507,3510,Germany,Berlin,Radrennbahn Weissensee,13 August 1990,The Rolling Stones,Steel Wheels Tour,52.5170365,13.3888599,Europe
+3508,3511,Germany,Berlin,Radrennbahn Weissensee,14 August 1990,The Rolling Stones,Steel Wheels Tour,52.5170365,13.3888599,Europe
+3509,3512,Germany,Gelsenkirchen,Parkstadion,16 August 1990,The Rolling Stones,Steel Wheels Tour,51.5110321,7.0960124,Europe
+3510,3513,Czech Republic,Prague,Strahov Stadium,18 August 1990,The Rolling Stones,Steel Wheels Tour,50.0596288,14.446459273258009,Europe
 3511,3514,England,London,Wembley Stadium,24 August 1990,The Rolling Stones,Steel Wheels Tour,51.4893335,-0.14405508452768728,Europe
 3512,3515,England,London,Wembley Stadium,25 August 1990,The Rolling Stones,Steel Wheels Tour,51.4893335,-0.14405508452768728,Europe
 3513,3516,United States,St. Paul,St. Paul Civic Center,"June 29, 1984",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,37.517132000000004,-95.17604240058537,North America
@@ -3629,8 +3629,8 @@
 3627,3630,Sweden,Gothenburg,Ullevi Stadium,"June 9, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,57.7072326,11.9670171,Europe
 3628,3631,Netherlands,Rotterdam,Feijenoord Stadium,"June 12, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,51.9244424,4.47775,Europe
 3629,3632,Netherlands,Rotterdam,Feijenoord Stadium,"June 13, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,51.9244424,4.47775,Europe
-3630,3633,Germany,Frankfurt,Waldstadion,"June 15, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,50.1050925,8.5859703,Europe
-3631,3634,Germany,Munich,Olympiastadion,"June 18, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,48.154140999999996,11.556248381577515,Europe
+3630,3633,Germany,Frankfurt,Waldstadion,"June 15, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,50.1106444,8.6820917,Europe
+3631,3634,Germany,Munich,Olympiastadion,"June 18, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,48.1371079,11.5753822,Europe
 3632,3635,Italy,Milan,San Siro,"June 21, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,45.4641943,9.1896346,Europe
 3633,3636,France,Montpellier,Stade Richter,"June 23, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,43.6112422,3.8767337,Europe
 3634,3637,France,St. Etienne,Stade Geoffroy-Guichard,"June 25, 1985",Bruce Springsteen and the E Street Band,Born in the U.S.A. Tour,45.4401467,4.3873058,Europe
@@ -3674,18 +3674,18 @@
 3672,3675,France,Paris,La Locomotive,21 March,David Bowie,Glass Spider Tour,48.8534951,2.3483915,Europe
 3673,3676,Spain,Madrid,Halquera Plateaux,24 March,David Bowie,Glass Spider Tour,40.4167047,-3.7035825,Europe
 3674,3677,Italy,Rome,Piper,25 March,David Bowie,Glass Spider Tour,41.8933203,12.4829321,Europe
-3675,3678,Germany,Munich,Parkcafe Lowenbrau,26 March,David Bowie,Glass Spider Tour,48.154140999999996,11.556248381577515,Europe
+3675,3678,Germany,Munich,Parkcafe Lowenbrau,26 March,David Bowie,Glass Spider Tour,48.1371079,11.5753822,Europe
 3676,3679,Sweden,Stockholm,Ritz,28 March,David Bowie,Glass Spider Tour,59.3251172,18.0710935,Europe
 3677,3680,Netherlands,Amsterdam,Paradiso,30 March,David Bowie,Glass Spider Tour,52.3730796,4.8924534,Europe
 3678,3681,Australia,Sydney,Tivoli Club,27 October,David Bowie,Glass Spider Tour,-33.8698439,151.2082848,Oceania
 3679,3682,Netherlands,Rotterdam,Stadion Feijenoord,30 May,David Bowie,Glass Spider Tour,51.9244424,4.47775,Europe
 3680,3683,Netherlands,Rotterdam,Stadion Feijenoord,31 May,David Bowie,Glass Spider Tour,51.9244424,4.47775,Europe
 3681,3684,Belgium,Werchter,Rock Werchter Concert Site,2 June,David Bowie,Glass Spider Tour,50.970584,4.6937963,Europe
-3682,3685,Germany,Berlin,Platz der Republik,6 June,David Bowie,Glass Spider Tour,53.9294049,9.5141165,Europe
-3683,3686,Germany,Nürburgring,Rock am Ring,7 June,David Bowie,Glass Spider Tour,,,Europe
+3682,3685,Germany,Berlin,Platz der Republik,6 June,David Bowie,Glass Spider Tour,52.5170365,13.3888599,Europe
+3683,3686,Germany,Nürburgring,Rock am Ring,7 June,David Bowie,Glass Spider Tour,50.3309196,6.940674171000003,Europe
 3684,3687,Italy,Florence,Stadio Comunale,9 June,David Bowie,Glass Spider Tour,43.7698712,11.2555757,Europe
 3685,3688,Italy,Milan,Stadio San Siro,10 June,David Bowie,Glass Spider Tour,45.4641943,9.1896346,Europe
-3686,3689,Germany,Hamburg,Festwiese Am Stadtpark,13 June,David Bowie,Glass Spider Tour,53.581658,9.9726787,Europe
+3686,3689,Germany,Hamburg,Festwiese Am Stadtpark,13 June,David Bowie,Glass Spider Tour,53.5672881,9.941726150411604,Europe
 3687,3690,Italy,Rome,Stadio Flaminio,15 June,David Bowie,Glass Spider Tour,41.8933203,12.4829321,Europe
 3688,3691,Italy,Rome,Stadio Flaminio,16 June,David Bowie,Glass Spider Tour,41.8933203,12.4829321,Europe
 3689,3692,United Kingdom,London,Wembley Stadium,19 June,David Bowie,Glass Spider Tour,51.4893335,-0.14405508452768728,Europe
@@ -3700,7 +3700,7 @@
 3698,3701,Spain,Madrid,Vicente Calderón Stadium,6 July,David Bowie,Glass Spider Tour,40.4167047,-3.7035825,Europe
 3699,3702,Spain,Barcelona,Mini Estadi,7 July,David Bowie,Glass Spider Tour,41.3828939,2.1774322,Europe
 3700,3703,Spain,Barcelona,Mini Estadi,8 July,David Bowie,Glass Spider Tour,41.3828939,2.1774322,Europe
-3701,3704,Ireland,Slane,Slane Concert,11 July,David Bowie,Glass Spider Tour,,,Europe
+3701,3704,Ireland,Slane,Slane Concert,11 July,David Bowie,Glass Spider Tour,53.7090675,-6.5426177,Europe
 3702,3705,United Kingdom,Manchester,Maine Road,14 July,David Bowie,Glass Spider Tour,53.4794892,-2.2451148,Europe
 3703,3706,United Kingdom,Manchester,Maine Road,15 July,David Bowie,Glass Spider Tour,53.4794892,-2.2451148,Europe
 3704,3707,France,Nice,Stade De L'Ouest,17 July,David Bowie,Glass Spider Tour,43.7009358,7.2683912,Europe
@@ -3836,7 +3836,7 @@
 3834,3837,United States,Tempe,Sun Devil Stadium,"November 23, 1984",The Jacksons,Victory Tour,33.4255117,-111.9400164,North America
 3835,3838,United States,Tempe,Sun Devil Stadium,"November 24, 1984",The Jacksons,Victory Tour,33.4255117,-111.9400164,North America
 3836,3839,France,Paris,—,1985[31],The Jacksons,Victory Tour,48.8534951,2.3483915,Europe
-3837,3840,Germany,Bremen,—,1985[31],The Jacksons,Victory Tour,53.0957576,8.7918877,Europe
+3837,3840,Germany,Bremen,—,1985[31],The Jacksons,Victory Tour,53.0758196,8.8071646,Europe
 3838,3841,Netherlands,Amsterdam,—,1985[31],The Jacksons,Victory Tour,52.3730796,4.8924534,Europe
 3839,3842,United States,Detroit,Joe Louis Arena,18 September 1986,Genesis,Invisible Touch Tour,42.3315509,-83.0466403,North America
 3840,3843,United States,Detroit,Joe Louis Arena,19 September 1986,Genesis,Invisible Touch Tour,42.3315509,-83.0466403,North America
@@ -3935,16 +3935,16 @@
 3933,3936,France,Paris,Palais Omnisports de Paris-Bercy,2 June 1987,Genesis,Invisible Touch Tour,48.8534951,2.3483915,Europe
 3934,3937,France,Paris,Hippodrome de Vincennes,3 June 1987,Genesis,Invisible Touch Tour,48.8534951,2.3483915,Europe
 3935,3938,Denmark,Gentofte,Gentofte Stadion,5 June 1987,Genesis,Invisible Touch Tour,55.7459656,12.5510249,Europe
-3936,3939,Germany,Hannover,Niedersachsenstadion,7 June 1987,Genesis,Invisible Touch Tour,52.4644264,9.6779412,Europe
-3937,3940,Germany,Berlin,Platz der Republik,8 June 1987,Genesis,Invisible Touch Tour,53.9294049,9.5141165,Europe
-3938,3941,Germany,Dortmund,Westfalenhallen,10 June 1987,Genesis,Invisible Touch Tour,50.1106349,8.5388093,Europe
+3936,3939,Germany,Hannover,Niedersachsenstadion,7 June 1987,Genesis,Invisible Touch Tour,52.3744779,9.7385532,Europe
+3937,3940,Germany,Berlin,Platz der Republik,8 June 1987,Genesis,Invisible Touch Tour,52.5170365,13.3888599,Europe
+3938,3941,Germany,Dortmund,Westfalenhallen,10 June 1987,Genesis,Invisible Touch Tour,51.5142273,7.4652789,Europe
 3939,3942,Netherlands,Rotterdam,De Kuip,11 June 1987,Genesis,Invisible Touch Tour,51.9244424,4.47775,Europe
 3940,3943,Switzerland,Basel,St. Jakob Stadium,13 June 1987,Genesis,Invisible Touch Tour,47.5581077,7.5878261,Europe
 3941,3944,France,Nancy,Stade Marcel Picot,14 June 1987,Genesis,Invisible Touch Tour,48.6937223,6.1834097,Europe
 3942,3945,Austria,Vienna,Ernst-Happel-Stadion,16 June 1987,Genesis,Invisible Touch Tour,48.2083537,16.3725042,Europe
 3943,3946,Hungary,Budapest,Népstadion,18 June 1987,Genesis,Invisible Touch Tour,47.4978918,19.0401609,Europe
-3944,3947,Germany,Mannheim,Maimarktgelände,20 June 1987,Genesis,Invisible Touch Tour,49.50329605,8.461925417571244,Europe
-3945,3948,Germany,Munich,Olympiastadion,21 June 1987,Genesis,Invisible Touch Tour,48.154140999999996,11.556248381577515,Europe
+3944,3947,Germany,Mannheim,Maimarktgelände,20 June 1987,Genesis,Invisible Touch Tour,49.4892913,8.4673098,Europe
+3945,3948,Germany,Munich,Olympiastadion,21 June 1987,Genesis,Invisible Touch Tour,48.1371079,11.5753822,Europe
 3946,3949,France,Nantes,Stade de la Beaujoire,23 June 1987,Genesis,Invisible Touch Tour,47.2186371,-1.5541362,Europe
 3947,3950,France,Paris,Hippodrome de Vincennes,24 June 1987,Genesis,Invisible Touch Tour,48.8534951,2.3483915,Europe
 3948,3951,Scotland,Glasgow,Hampden Park,26 June 1987,Genesis,Invisible Touch Tour,55.861155,-4.2501687,Europe
@@ -3953,19 +3953,19 @@
 3951,3954,England,London,Wembley Stadium,2 July 1987,Genesis,Invisible Touch Tour,51.4893335,-0.14405508452768728,Europe
 3952,3955,England,London,Wembley Stadium,3 July 1987,Genesis,Invisible Touch Tour,51.4893335,-0.14405508452768728,Europe
 3953,3956,England,London,Wembley Stadium,4 July 1987,Genesis,Invisible Touch Tour,51.4893335,-0.14405508452768728,Europe
-3954,3957,Germany,Munich,Olympiahalle,"March 4, 1987",Tina Turner,Break Every Rule World Tour,48.154140999999996,11.556248381577515,Europe
-3955,3958,Germany,Munich,Olympiahalle,"March 5, 1987",Tina Turner,Break Every Rule World Tour,48.154140999999996,11.556248381577515,Europe
-3956,3959,Germany,Nuremberg,Frankenhalle,"March 6, 1987",Tina Turner,Break Every Rule World Tour,,,Europe
-3957,3960,Germany,Nuremberg,Frankenhalle,"March 7, 1987",Tina Turner,Break Every Rule World Tour,,,Europe
-3958,3961,Germany,Berlin,Deutschlandhalle,"March 8, 1987",Tina Turner,Break Every Rule World Tour,53.9294049,9.5141165,Europe
-3959,3962,Germany,Berlin,Deutschlandhalle,"March 9, 1987",Tina Turner,Break Every Rule World Tour,53.9294049,9.5141165,Europe
-3960,3963,Germany,Berlin,Deutschlandhalle,"March 10, 1987",Tina Turner,Break Every Rule World Tour,53.9294049,9.5141165,Europe
-3961,3964,Germany,Frankfurt,Festhalle,"March 12, 1987",Tina Turner,Break Every Rule World Tour,50.1050925,8.5859703,Europe
-3962,3965,Germany,Frankfurt,Festhalle,"March 13, 1987",Tina Turner,Break Every Rule World Tour,50.1050925,8.5859703,Europe
-3963,3966,Germany,Frankfurt,Festhalle,"March 14, 1987",Tina Turner,Break Every Rule World Tour,50.1050925,8.5859703,Europe
-3964,3967,Germany,Frankfurt,Festhalle,"March 15, 1987",Tina Turner,Break Every Rule World Tour,50.1050925,8.5859703,Europe
-3965,3968,Germany,Frankfurt,Festhalle,"March 16, 1987",Tina Turner,Break Every Rule World Tour,50.1050925,8.5859703,Europe
-3966,3969,Germany,Hamburg,Alsterdorfer Sporthalle,"March 17, 1987",Tina Turner,Break Every Rule World Tour,53.581658,9.9726787,Europe
+3954,3957,Germany,Munich,Olympiahalle,"March 4, 1987",Tina Turner,Break Every Rule World Tour,48.1371079,11.5753822,Europe
+3955,3958,Germany,Munich,Olympiahalle,"March 5, 1987",Tina Turner,Break Every Rule World Tour,48.1371079,11.5753822,Europe
+3956,3959,Germany,Nuremberg,Frankenhalle,"March 6, 1987",Tina Turner,Break Every Rule World Tour,49.453872,11.077298,Europe
+3957,3960,Germany,Nuremberg,Frankenhalle,"March 7, 1987",Tina Turner,Break Every Rule World Tour,49.453872,11.077298,Europe
+3958,3961,Germany,Berlin,Deutschlandhalle,"March 8, 1987",Tina Turner,Break Every Rule World Tour,52.5170365,13.3888599,Europe
+3959,3962,Germany,Berlin,Deutschlandhalle,"March 9, 1987",Tina Turner,Break Every Rule World Tour,52.5170365,13.3888599,Europe
+3960,3963,Germany,Berlin,Deutschlandhalle,"March 10, 1987",Tina Turner,Break Every Rule World Tour,52.5170365,13.3888599,Europe
+3961,3964,Germany,Frankfurt,Festhalle,"March 12, 1987",Tina Turner,Break Every Rule World Tour,50.1106444,8.6820917,Europe
+3962,3965,Germany,Frankfurt,Festhalle,"March 13, 1987",Tina Turner,Break Every Rule World Tour,50.1106444,8.6820917,Europe
+3963,3966,Germany,Frankfurt,Festhalle,"March 14, 1987",Tina Turner,Break Every Rule World Tour,50.1106444,8.6820917,Europe
+3964,3967,Germany,Frankfurt,Festhalle,"March 15, 1987",Tina Turner,Break Every Rule World Tour,50.1106444,8.6820917,Europe
+3965,3968,Germany,Frankfurt,Festhalle,"March 16, 1987",Tina Turner,Break Every Rule World Tour,50.1106444,8.6820917,Europe
+3966,3969,Germany,Hamburg,Alsterdorfer Sporthalle,"March 17, 1987",Tina Turner,Break Every Rule World Tour,53.5672881,9.941726150411604,Europe
 3967,3970,Sweden,Stockholm,Johanneshov Isstadion,"March 20, 1987",Tina Turner,Break Every Rule World Tour,59.3251172,18.0710935,Europe
 3968,3971,Sweden,Stockholm,Johanneshov Isstadion,"March 21, 1987",Tina Turner,Break Every Rule World Tour,59.3251172,18.0710935,Europe
 3969,3972,Sweden,Gothenburg,Scandinavium,"March 22, 1987",Tina Turner,Break Every Rule World Tour,57.7072326,11.9670171,Europe
@@ -3979,29 +3979,29 @@
 3977,3980,Netherlands,Rotterdam,Sportpaleis,"April 4, 1987",Tina Turner,Break Every Rule World Tour,51.9244424,4.47775,Europe
 3978,3981,Netherlands,Rotterdam,Sportpaleis,"April 5, 1987",Tina Turner,Break Every Rule World Tour,51.9244424,4.47775,Europe
 3979,3982,Netherlands,Rotterdam,Sportpaleis,"April 6, 1987",Tina Turner,Break Every Rule World Tour,51.9244424,4.47775,Europe
-3980,3983,Germany,Oldenburg,Weser-Ems Halle,"April 7, 1987",Tina Turner,Break Every Rule World Tour,52.7213151,8.278615,Europe
-3981,3984,Germany,Dortmund,Westfalenhalle,"April 9, 1987",Tina Turner,Break Every Rule World Tour,50.1106349,8.5388093,Europe
-3982,3985,Germany,Dortmund,Westfalenhalle,"April 10, 1987",Tina Turner,Break Every Rule World Tour,50.1106349,8.5388093,Europe
-3983,3986,Germany,Dortmund,Westfalenhalle,"April 11, 1987",Tina Turner,Break Every Rule World Tour,50.1106349,8.5388093,Europe
-3984,3987,Germany,Dortmund,Westfalenhalle,"April 12, 1987",Tina Turner,Break Every Rule World Tour,50.1106349,8.5388093,Europe
-3985,3988,Germany,Munich,Olympiahalle,"April 14, 1987",Tina Turner,Break Every Rule World Tour,48.154140999999996,11.556248381577515,Europe
-3986,3989,Germany,Munich,Olympiahalle,"April 15, 1987",Tina Turner,Break Every Rule World Tour,48.154140999999996,11.556248381577515,Europe
-3987,3990,Germany,Munich,Olympiahalle,"April 16, 1987",Tina Turner,Break Every Rule World Tour,48.154140999999996,11.556248381577515,Europe
-3988,3991,Germany,Munich,Olympiahalle,"April 18, 1987",Tina Turner,Break Every Rule World Tour,48.154140999999996,11.556248381577515,Europe
-3989,3992,Germany,Munich,Olympiahalle,"April 19, 1987",Tina Turner,Break Every Rule World Tour,48.154140999999996,11.556248381577515,Europe
+3980,3983,Germany,Oldenburg,Weser-Ems Halle,"April 7, 1987",Tina Turner,Break Every Rule World Tour,53.1389753,8.2146017,Europe
+3981,3984,Germany,Dortmund,Westfalenhalle,"April 9, 1987",Tina Turner,Break Every Rule World Tour,51.5142273,7.4652789,Europe
+3982,3985,Germany,Dortmund,Westfalenhalle,"April 10, 1987",Tina Turner,Break Every Rule World Tour,51.5142273,7.4652789,Europe
+3983,3986,Germany,Dortmund,Westfalenhalle,"April 11, 1987",Tina Turner,Break Every Rule World Tour,51.5142273,7.4652789,Europe
+3984,3987,Germany,Dortmund,Westfalenhalle,"April 12, 1987",Tina Turner,Break Every Rule World Tour,51.5142273,7.4652789,Europe
+3985,3988,Germany,Munich,Olympiahalle,"April 14, 1987",Tina Turner,Break Every Rule World Tour,48.1371079,11.5753822,Europe
+3986,3989,Germany,Munich,Olympiahalle,"April 15, 1987",Tina Turner,Break Every Rule World Tour,48.1371079,11.5753822,Europe
+3987,3990,Germany,Munich,Olympiahalle,"April 16, 1987",Tina Turner,Break Every Rule World Tour,48.1371079,11.5753822,Europe
+3988,3991,Germany,Munich,Olympiahalle,"April 18, 1987",Tina Turner,Break Every Rule World Tour,48.1371079,11.5753822,Europe
+3989,3992,Germany,Munich,Olympiahalle,"April 19, 1987",Tina Turner,Break Every Rule World Tour,48.1371079,11.5753822,Europe
 3990,3993,Switzerland,Zürich,Hallenstadion,"April 21, 1987",Tina Turner,Break Every Rule World Tour,47.3744489,8.5410422,Europe
 3991,3994,Switzerland,Zürich,Hallenstadion,"April 22, 1987",Tina Turner,Break Every Rule World Tour,47.3744489,8.5410422,Europe
 3992,3995,Switzerland,Zürich,Hallenstadion,"April 23, 1987",Tina Turner,Break Every Rule World Tour,47.3744489,8.5410422,Europe
 3993,3996,Switzerland,Zürich,Hallenstadion,"April 24, 1987",Tina Turner,Break Every Rule World Tour,47.3744489,8.5410422,Europe
-3994,3997,Germany,Mannheim,Eisstadion am Friedrichspark,"April 28, 1987",Tina Turner,Break Every Rule World Tour,49.50329605,8.461925417571244,Europe
-3995,3998,Germany,Mannheim,Eisstadion am Friedrichspark,"April 29, 1987",Tina Turner,Break Every Rule World Tour,49.50329605,8.461925417571244,Europe
-3996,3999,Germany,Mannheim,Eisstadion am Friedrichspark,"April 30, 1987",Tina Turner,Break Every Rule World Tour,49.50329605,8.461925417571244,Europe
-3997,4000,Germany,Hanover,Europahalle,"May 1, 1987",Tina Turner,Break Every Rule World Tour,,,Europe
-3998,4001,Germany,Hanover,Europahalle,"May 2, 1987",Tina Turner,Break Every Rule World Tour,,,Europe
-3999,4002,Germany,Stuttgart,Hanns-Martin-Schleyer-Halle,"May 4, 1987",Tina Turner,Break Every Rule World Tour,48.8928355,9.1651012,Europe
-4000,4003,Germany,Stuttgart,Hanns-Martin-Schleyer-Halle,"May 5, 1987",Tina Turner,Break Every Rule World Tour,48.8928355,9.1651012,Europe
-4001,4004,Germany,Stuttgart,Hanns-Martin-Schleyer-Halle,"May 6, 1987",Tina Turner,Break Every Rule World Tour,48.8928355,9.1651012,Europe
-4002,4005,Germany,Stuttgart,Hanns-Martin-Schleyer-Halle,"May 7, 1987",Tina Turner,Break Every Rule World Tour,48.8928355,9.1651012,Europe
+3994,3997,Germany,Mannheim,Eisstadion am Friedrichspark,"April 28, 1987",Tina Turner,Break Every Rule World Tour,49.4892913,8.4673098,Europe
+3995,3998,Germany,Mannheim,Eisstadion am Friedrichspark,"April 29, 1987",Tina Turner,Break Every Rule World Tour,49.4892913,8.4673098,Europe
+3996,3999,Germany,Mannheim,Eisstadion am Friedrichspark,"April 30, 1987",Tina Turner,Break Every Rule World Tour,49.4892913,8.4673098,Europe
+3997,4000,Germany,Hanover,Europahalle,"May 1, 1987",Tina Turner,Break Every Rule World Tour,52.3744779,9.7385532,Europe
+3998,4001,Germany,Hanover,Europahalle,"May 2, 1987",Tina Turner,Break Every Rule World Tour,52.3744779,9.7385532,Europe
+3999,4002,Germany,Stuttgart,Hanns-Martin-Schleyer-Halle,"May 4, 1987",Tina Turner,Break Every Rule World Tour,48.7784485,9.1800132,Europe
+4000,4003,Germany,Stuttgart,Hanns-Martin-Schleyer-Halle,"May 5, 1987",Tina Turner,Break Every Rule World Tour,48.7784485,9.1800132,Europe
+4001,4004,Germany,Stuttgart,Hanns-Martin-Schleyer-Halle,"May 6, 1987",Tina Turner,Break Every Rule World Tour,48.7784485,9.1800132,Europe
+4002,4005,Germany,Stuttgart,Hanns-Martin-Schleyer-Halle,"May 7, 1987",Tina Turner,Break Every Rule World Tour,48.7784485,9.1800132,Europe
 4003,4006,Austria,Vienna,Wiener Stadthalle,"May 9, 1987",Tina Turner,Break Every Rule World Tour,48.2083537,16.3725042,Europe
 4004,4007,Austria,Vienna,Wiener Stadthalle,"May 10, 1987",Tina Turner,Break Every Rule World Tour,48.2083537,16.3725042,Europe
 4005,4008,Austria,Vienna,Wiener Stadthalle,"May 11, 1987",Tina Turner,Break Every Rule World Tour,48.2083537,16.3725042,Europe
@@ -4028,14 +4028,14 @@
 4026,4029,England,London,Wembley Arena,"June 17, 1987",Tina Turner,Break Every Rule World Tour,51.4893335,-0.14405508452768728,Europe
 4027,4030,England,London,Wembley Arena,"June 18, 1987",Tina Turner,Break Every Rule World Tour,51.4893335,-0.14405508452768728,Europe
 4028,4031,Norway,Oslo,Valle Hovin,"June 20, 1987",Tina Turner,Break Every Rule World Tour,59.9133301,10.7389701,Europe
-4029,4032,Germany,Karlsruhe,Wildparkstadion,"June 21, 1987",Tina Turner,Break Every Rule World Tour,48.94036105,8.382491504702008,Europe
+4029,4032,Germany,Karlsruhe,Wildparkstadion,"June 21, 1987",Tina Turner,Break Every Rule World Tour,49.0068705,8.4034195,Europe
 4030,4033,Austria,Graz,Eisstadion Liebenau,"June 24, 1987",Tina Turner,Break Every Rule World Tour,47.0708678,15.4382786,Europe
 4031,4034,Switzerland,Basel,St. Jakob Stadium,"June 27, 1987",Tina Turner,Break Every Rule World Tour,47.5581077,7.5878261,Europe
-4032,4035,Germany,Munich,Galopprennbahn Riem,"June 28, 1987",Tina Turner,Break Every Rule World Tour,48.154140999999996,11.556248381577515,Europe
-4033,4036,Germany,Hanover,Europahalle,"June 30, 1987",Tina Turner,Break Every Rule World Tour,,,Europe
-4034,4037,Germany,Berlin,Waldbühne,"July 2, 1987",Tina Turner,Break Every Rule World Tour,53.9294049,9.5141165,Europe
-4035,4038,Germany,Hamburg,Volksparkstadion,"July 3, 1987",Tina Turner,Break Every Rule World Tour,53.581658,9.9726787,Europe
-4036,4039,Germany,Essen,Georg-Melches-Stadion,"July 4, 1987",Tina Turner,Break Every Rule World Tour,51.97627795,7.574734959066284,Europe
+4032,4035,Germany,Munich,Galopprennbahn Riem,"June 28, 1987",Tina Turner,Break Every Rule World Tour,48.1371079,11.5753822,Europe
+4033,4036,Germany,Hanover,Europahalle,"June 30, 1987",Tina Turner,Break Every Rule World Tour,52.3744779,9.7385532,Europe
+4034,4037,Germany,Berlin,Waldbühne,"July 2, 1987",Tina Turner,Break Every Rule World Tour,52.5170365,13.3888599,Europe
+4035,4038,Germany,Hamburg,Volksparkstadion,"July 3, 1987",Tina Turner,Break Every Rule World Tour,53.5672881,9.941726150411604,Europe
+4036,4039,Germany,Essen,Georg-Melches-Stadion,"July 4, 1987",Tina Turner,Break Every Rule World Tour,51.4582235,7.0158171,Europe
 4037,4040,Denmark,Copenhagen,Københavns Idrætspark,"July 5, 1987",Tina Turner,Break Every Rule World Tour,55.6867243,12.5700724,Europe
 4038,4041,Switzerland,Locarno,Piazza Grande,"July 8, 1987",Tina Turner,Break Every Rule World Tour,46.1695739,8.7954859,Europe
 4039,4042,France,Annecy-le-Vieux,Stade d'Albigny,"July 9, 1987",Tina Turner,Break Every Rule World Tour,45.9191358,6.1420652,Europe
@@ -4047,8 +4047,8 @@
 4045,4048,Israel,Tel Aviv,Hayarkon Park,"July 21, 1987",Tina Turner,Break Every Rule World Tour,32.0852997,34.7818064,Asia
 4046,4049,Israel,Tel Aviv,Hayarkon Park,"July 22, 1987",Tina Turner,Break Every Rule World Tour,32.0852997,34.7818064,Asia
 4047,4050,Belgium,Ostend,Luchthaven Oostende,"July 24, 1987",Tina Turner,Break Every Rule World Tour,51.2258565,2.919496,Europe
-4048,4051,Germany,Nürburg,Nürburgring,"July 25, 1987",Tina Turner,Break Every Rule World Tour,50.0879501,8.5763665,Europe
-4049,4052,Germany,Gießen,Waldstadion,"July 26, 1987",Tina Turner,Break Every Rule World Tour,50.5854953,8.6489934,Europe
+4048,4051,Germany,Nürburg,Nürburgring,"July 25, 1987",Tina Turner,Break Every Rule World Tour,50.3413391,6.9519229,Europe
+4049,4052,Germany,Gießen,Waldstadion,"July 26, 1987",Tina Turner,Break Every Rule World Tour,50.5862066,8.6742306,Europe
 4050,4053,United States,Portland,Cumberland County Civic Center,"August 10, 1987",Tina Turner,Break Every Rule World Tour,45.5202471,-122.674194,North America
 4051,4054,United States,Wantagh,Jones Beach Marine Theater,"August 12, 1987",Tina Turner,Break Every Rule World Tour,40.6837121,-73.5101258,North America
 4052,4055,United States,Wantagh,Jones Beach Marine Theater,"August 13, 1987",Tina Turner,Break Every Rule World Tour,40.6837121,-73.5101258,North America
@@ -4100,7 +4100,7 @@
 4098,4101,United States,West Lafayette,Elliott Hall of Music[13],"October 23, 1987",Tina Turner,Break Every Rule World Tour,40.4258686,-86.9080655,North America
 4099,4102,United States,Louisville,Freedom Hall,"October 24, 1987",Tina Turner,Break Every Rule World Tour,38.2542376,-85.759407,North America
 4100,4103,United States,Charlotte,Charlotte Coliseum,"October 27, 1987",Tina Turner,Break Every Rule World Tour,35.2272086,-80.8430827,North America
-4101,4104,United States,Murfreesboro,Murphy Center,"October 29, 1987",Tina Turner,Break Every Rule World Tour,,,North America
+4101,4104,United States,Murfreesboro,Murphy Center,"October 29, 1987",Tina Turner,Break Every Rule World Tour,35.8460396,-86.3921096,North America
 4102,4105,United States,Chattanooga,UTC Arena,"October 30, 1987",Tina Turner,Break Every Rule World Tour,35.0457219,-85.3094883,North America
 4103,4106,United States,Knoxville,Stokely Athletic Center,"October 31, 1987",Tina Turner,Break Every Rule World Tour,35.9603948,-83.9210261,North America
 4104,4107,United States,Charleston,Charleston Civic Center,"November 1, 1987",Tina Turner,Break Every Rule World Tour,32.7884363,-79.9399309,North America
@@ -4213,7 +4213,7 @@
 4211,4214,England,London,Wembley Stadium,12 June 1987,U2,The Joshua Tree Tour,51.4893335,-0.14405508452768728,Europe
 4212,4215,England,London,Wembley Stadium,13 June 1987,U2,The Joshua Tree Tour,51.4893335,-0.14405508452768728,Europe
 4213,4216,France,Paris,Le Zénith,15 June 1987,U2,The Joshua Tree Tour,48.8534951,2.3483915,Europe
-4214,4217,Germany,Cologne,Müngersdorfer Stadium,17 June 1987,U2,The Joshua Tree Tour,,,Europe
+4214,4217,Germany,Cologne,Müngersdorfer Stadium,17 June 1987,U2,The Joshua Tree Tour,50.938361,6.959974,Europe
 4215,4218,Switzerland,Basel,St. Jakob Stadium,21 June 1987,U2,The Joshua Tree Tour,47.5581077,7.5878261,Europe
 4216,4219,Northern Ireland,Belfast,King's Hall,24 June 1987,U2,The Joshua Tree Tour,54.596391,-5.9301829,Europe
 4217,4220,Ireland,Dublin,Croke Park,27 June 1987,U2,The Joshua Tree Tour,53.3493795,-6.2605593,Europe
@@ -4225,8 +4225,8 @@
 4223,4226,Netherlands,Rotterdam,Feijenoord Stadion,11 July 1987,U2,The Joshua Tree Tour,51.9244424,4.47775,Europe
 4224,4227,Spain,Madrid,Santiago Bernabéu Stadium,15 July 1987,U2,The Joshua Tree Tour,40.4167047,-3.7035825,Europe
 4225,4228,France,Montpellier,Espace Richter,18 July 1987,U2,The Joshua Tree Tour,43.6112422,3.8767337,Europe
-4226,4229,Germany,Munich,Olympiahalle,21 July 1987,U2,The Joshua Tree Tour,48.154140999999996,11.556248381577515,Europe
-4227,4230,Germany,Munich,Olympiahalle,22 July 1987,U2,The Joshua Tree Tour,48.154140999999996,11.556248381577515,Europe
+4226,4229,Germany,Munich,Olympiahalle,21 July 1987,U2,The Joshua Tree Tour,48.1371079,11.5753822,Europe
+4227,4230,Germany,Munich,Olympiahalle,22 July 1987,U2,The Joshua Tree Tour,48.1371079,11.5753822,Europe
 4228,4231,Wales,Cardiff,Cardiff Arms Park,25 July 1987,U2,The Joshua Tree Tour,51.4816546,-3.1791934,Europe
 4229,4232,Scotland,Glasgow,Scottish Exhibition and Conference Centre,29 July 1987,U2,The Joshua Tree Tour,55.861155,-4.2501687,Europe
 4230,4233,Scotland,Glasgow,Scottish Exhibition and Conference Centre,30 July 1987,U2,The Joshua Tree Tour,55.861155,-4.2501687,Europe
@@ -4789,9 +4789,9 @@
 4787,4790,Tunisia,Tunis,Stade El Menzah,"October 7, 1996",Michael Jackson,HIStory World Tour,36.8002068,10.1857757,Africa
 4788,4791,South Korea,Seoul,Olympic Stadium,"October 11, 1996",Michael Jackson,HIStory World Tour,37.5666791,126.9782914,Asia
 4789,4792,South Korea,Seoul,Olympic Stadium,"October 13, 1996",Michael Jackson,HIStory World Tour,37.5666791,126.9782914,Asia
-4790,4793,Taiwan,Taipei City,Zhongshan Soccer Stadium,"October 18, 1996",Michael Jackson,HIStory World Tour,,,Asia
-4791,4794,Taiwan,Kaohsiung,Chungcheng Stadium,"October 20, 1996",Michael Jackson,HIStory World Tour,,,Asia
-4792,4795,Taiwan,Taipei City,Zhongshan Soccer Stadium,"October 22, 1996",Michael Jackson,HIStory World Tour,,,Asia
+4790,4793,Taiwan,Taipei City,Zhongshan Soccer Stadium,"October 18, 1996",Michael Jackson,HIStory World Tour,25.1345772,121.46913565002939,Asia
+4791,4794,Taiwan,Kaohsiung,Chungcheng Stadium,"October 20, 1996",Michael Jackson,HIStory World Tour,22.6203348,120.3120375,Asia
+4792,4795,Taiwan,Taipei City,Zhongshan Soccer Stadium,"October 22, 1996",Michael Jackson,HIStory World Tour,25.1345772,121.46913565002939,Asia
 4793,4796,Singapore,Singapore,National Stadium,"October 25, 1996",Michael Jackson,HIStory World Tour,1.357107,103.8194992,Asia
 4794,4797,Malaysia,Kuala Lumpur,Stadium Merdeka,"October 27, 1996",Michael Jackson,HIStory World Tour,3.1516964,101.6942371,Asia
 4795,4798,Malaysia,Kuala Lumpur,Stadium Merdeka,"October 29, 1996",Michael Jackson,HIStory World Tour,3.1516964,101.6942371,Asia
@@ -5698,9 +5698,9 @@
 5696,5699,Northern Ireland,Belfast,King's Hall,"November 13, 1998",Garth Brooks,The Garth Brooks World Tour,54.596391,-5.9301829,Europe
 5697,5700,Northern Ireland,Belfast,King's Hall,"November 14, 1998",Garth Brooks,The Garth Brooks World Tour,54.596391,-5.9301829,Europe
 5698,5701,Northern Ireland,Belfast,King's Hall,"November 15, 1998",Garth Brooks,The Garth Brooks World Tour,54.596391,-5.9301829,Europe
-5699,5702,United States,College Station,Reed Arena,"November 19, 1998",Garth Brooks,The Garth Brooks World Tour,30.5955289,-96.3071042,North America
-5700,5703,United States,College Station,Reed Arena,"November 21, 1998",Garth Brooks,The Garth Brooks World Tour,30.5955289,-96.3071042,North America
-5701,5704,United States,College Station,Reed Arena,"November 22, 1998",Garth Brooks,The Garth Brooks World Tour,30.5955289,-96.3071042,North America
+5699,5702,United States,College Station,Reed Arena,"November 19, 1998",Garth Brooks,The Garth Brooks World Tour,30.6183939,-96.3455991,North America
+5700,5703,United States,College Station,Reed Arena,"November 21, 1998",Garth Brooks,The Garth Brooks World Tour,30.6183939,-96.3455991,North America
+5701,5704,United States,College Station,Reed Arena,"November 22, 1998",Garth Brooks,The Garth Brooks World Tour,30.6183939,-96.3455991,North America
 5702,5705,United States,Cheyenne,Cheyenne Frontier Days,"July 22, 1996",Garth Brooks,The Garth Brooks World Tour,41.139981,-104.820246,North America
 5703,5706,United States,New York City,Central Park,"August 7, 1997[b]",Garth Brooks,The Garth Brooks World Tour,40.7127281,-74.0060152,North America
 5704,5707,Brazil,Barretos,Festa do Peão de Boiadeiro,"August 22, 1998",Garth Brooks,The Garth Brooks World Tour,-20.5531437,-48.5697509,South America
@@ -6095,7 +6095,7 @@
 6093,6096,Puerto Rico,San Juan,Coliseo de Puerto Rico,31 January 2009,Celine Dion,Taking Chances World Tour,18.465299,-66.116666,North America
 6094,6097,United States,Tulsa,BOK Center,2 February 2009[q],Celine Dion,Taking Chances World Tour,36.1563122,-95.9927516,North America
 6095,6098,United States,St. Louis,Scottrade Center,4 February 2009[r],Celine Dion,Taking Chances World Tour,38.6280278,-90.1910154,North America
-6096,6099,Canada,Windsor,The Colosseum at Caesars Windsor,7 February 2009,Celine Dion,Taking Chances World Tour,42.3167397,-83.0373389,North America
+6096,6099,Canada,Windsor,The Colosseum at Caesars Windsor,7 February 2009,Celine Dion,Taking Chances World Tour,42.2858536,-82.9780695,North America
 6097,6100,Canada,Quebec City,Colisée Pepsi,9 February 2009,Celine Dion,Taking Chances World Tour,46.8137431,-71.2084061,North America
 6098,6101,Canada,Quebec City,Colisée Pepsi,10 February 2009,Celine Dion,Taking Chances World Tour,46.8137431,-71.2084061,North America
 6099,6102,Canada,Montreal,Bell Centre,12 February 2009,Celine Dion,Taking Chances World Tour,45.5031824,-73.5698065,North America
