@@ -19,7 +19,7 @@ If you want to see how I scraped and transformed data, you should check out [thi
 
 Some tours from those lists are still going on. Therefore I have to say that data was scraped on 21 Nov 2023.
 
-### Initial analysis
+## Initial analysis
 
 After transforming and cleaning my dataset I gathered first informations. First of all, I found out that I have 7281 concerts coming from 49 concert tours. 
 These were performed on all (populated) continents, in 604 unique cities across 79 countries. At this point we can already see, that much more than 100 countries never hosted any concert from those biggest tours.
@@ -51,7 +51,7 @@ Those map visualizations are actually enough to know what does 'world' means in 
 ### Concerts by country
 Then I plotted 20 countries that most frequently hosted concerts from my dataset. The only one, but kinda big, suprise was how disproportional is number of concerts that were located in United States than in any other country.
 
-We can also see, that 4 out of 5 countries are (mostly) English speaking. It may be important factor, considering that most famous artist usually sing in English.
+We can also see, that 4 out of 5 top countries are (mostly) English speaking. It may be important factor, considering that most famous artist usually sing in English.
 
 ![Top 20 most frequently hosting countries](./images/fig_count_by_countries_top20.png)
 
@@ -64,7 +64,7 @@ First, looking at Oceania we can see that there are actually only Australia and 
 | Australia   |     395 |
 | New Zealand |      79 |
 
-In Africa we can see, that almost all concerts took place in South Africa Republic. Individual events were held in Tunisia and Marocco
+In Africa we can see, that almost all concerts took place in South Africa Republic. Individual events were held in Tunisia and Morocco
 | Country     |   Count |
 |:-------------|--------:|
 | South Africa |      27 |
@@ -84,7 +84,7 @@ South America seems to be probably least suprising continent. I would personally
 | Uruguay   |       2 |
 | Paraguay  |       1 |
 
-In North America there is a big disproportion between United States and other countries, but we already know this. Canada seem to be similar case to Australia and New Zeland - english speaking country with very good economy. 
+In North America there is a big disproportion between United States and other countries, but we already know this. Canada seem to be similar case to Australia and New Zeland - English speaking country with very good economy. 
 
 | Country            |   Count |
 |:-------------------|--------:|
@@ -99,7 +99,7 @@ In North America there is a big disproportion between United States and other co
 | El Salvador        |       1 |
 | Honduras           |       1 |
 
-In Asia we have another very skewed distribution. Majority of concerts is held in Japan. Suprisingly large count is for Singapur - another english-speaking, wealthy country. I would also assumed that South Korea gets much more events than it actually has.
+In Asia we have another very skewed distribution. Majority of concerts is held in Japan. Suprisingly large count is for Singapur - another English-speaking, wealthy country. I would also assumed that South Korea gets much more events than it actually has.
 
 |  Country     | Count  |  Country               | Count  |
 |--------------|--------|------------------------|--------|
@@ -132,14 +132,14 @@ According to data, only 4 out of 49 examined tours had events hosted on all cont
 
 Ed Sheeran during his [÷ Tour](https://en.wikipedia.org/wiki/÷_Tour) visited 49 countries. It's the biggest number of visited countries during one tour in my dataset. Needless to say, that it was one of all-continents tour.
 
-# Final conclusions
+## Final conclusions
 The popular meme is true. It really seems that in dictionary of world-famous artists world means mostly US, Canada, Western Europe and sometimes Australia and Japan. It doesn't really suprise me, but is good to have evidence for that.
 
 What's more suprising is how big is difference between United States and any other country. Among the most interesting things I found out here, is also large count of concerts held in Australia, Canada and New Zeleand in comparison to population of that places.
 
-It also seem to be universal key for the most common countries - they tend to be very wealthy (rather obvious) and english-speaking (now it also seem obvious, but it wasn't like this before) countries. We need to have in mind that almost all of those artists sing in english and come from UK or USA.
+It also seem to be universal key for the most common countries - they tend to be very wealthy (rather obvious) and English-speaking (now it also seem obvious, but it wasn't like this before) countries. We need to have in mind that almost all of those artists sing in English and come from UK or USA.
 
-# Links
+## Links
 - [Code repository]()
 - [List of highest-grossing concert tours](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
 - [List of most attended concert tours](https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours)
