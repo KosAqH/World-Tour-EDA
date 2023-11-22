@@ -17,16 +17,20 @@ I've used Wikipedia as my data source. I decided to analyse tours that I found i
 
 If you want to see how I scraped and transformed data, you should check out [this notebook](https://www.youtube.com/watch?v=dQw4w9WgXcQ) from my repo.
 
-Some tours from those lists are still going on. Therefore I have to say that data was scraped on 21 Nov 2023.
+Some tours from those lists are still going on. Therefore I have to say that data was scraped on 22 Nov 2023.
+
+>[!WARNING]
+>
+> Both those Wikipedia articles are updated very often. I also removed some tours from my dataset, because I couldn't find proof that it was intended to be a world tour. The full list of tours examined during analysis is [in my repo]().
 
 ## Initial analysis
 
-After transforming and cleaning my dataset I gathered the first information. First of all, I found out that I have 7281 concerts coming from 49 concert tours. 
-These were performed on all (populated) continents, in 604 unique cities across 79 countries. At this point, we can already see, that much more than 100 countries never hosted any concert from those biggest tours.
+After transforming and cleaning my dataset I gathered the first information. First of all, I found out that I have 7397 concerts coming from 50 concert tours. 
+These were performed on all (populated) continents, in 607 unique cities across 79 countries. At this point, we can already see, that much more than 100 countries never hosted any concert from those biggest tours.
 
 After checking the value counts of concert locations by continent I came to my first conclusion:
 - More than half of the concerts took part in North America.
-- Very small fractions of those events took part in Africa. There are only 29 of them, making 0.4% of the dataset.
+- Very small fractions of those events took part in Africa. There are only 31 of them, making 0.42% of the dataset.
 - Australia and Oceania hosted a lot of examined concerts, regarding the population of this continent.
 
 ![Concerts count by continent](./images/fig_count_by_continent.png)
@@ -61,13 +65,13 @@ First, looking at Oceania we can see that there are only Australia and New Zeala
 
 | Country     |   Count |
 |:------------|--------:|
-| Australia   |     395 |
-| New Zealand |      79 |
+| Australia   |     401 |
+| New Zealand |      81 |
 
 In Africa, we can see, that almost all concerts took place in the South Africa Republic. Individual events were held in Tunisia and Morocco
 | Country     |   Count |
 |:-------------|--------:|
-| South Africa |      27 |
+| South Africa |      29 |
 | Morocco      |       1 |
 | Tunisia      |       1 |
 
@@ -75,9 +79,9 @@ South America seems to be probably the least surprising continent. I would perso
 
 | Country   |   Count |
 |:----------|--------:|
-| Brazil    |      96 |
-| Argentina |      81 |
-| Chile     |      33 |
+| Brazil    |     103 |
+| Argentina |      89 |
+| Chile     |      35 |
 | Colombia  |      14 |
 | Peru      |      11 |
 | Ecuador   |       3 |
@@ -88,9 +92,9 @@ In North America, there is a big disproportion between the United States and oth
 
 | Country            |   Count |
 |:-------------------|--------:|
-| United States      |    3435 |
-| Canada             |     398 |
-| Mexico             |      88 |
+| United States      |    3456 |
+| Canada             |     417 |
+| Mexico             |      95 |
 | Costa Rica         |       8 |
 | Puerto Rico        |       6 |
 | Dominican Republic |       3 |
@@ -103,32 +107,32 @@ In Asia, we have another very skewed distribution. The majority of concerts are 
 
 |  Country     | Count  |  Country               | Count  |
 |--------------|--------|------------------------|--------|
-|  Japan       | 132    |  United Arab Emirates  | 7      |
-|  Singapore   | 34     |  Indonesia             | 7      |
-|  Taiwan      | 14     |  Israel                | 7      |
-|  Thailand    | 13     |  China                 | 7      |
+|  Japan       | 156    |  Israel                | 9      |
+|  Singapore   | 36     |  Indonesia             | 7      |
+|  Taiwan      | 16     |  United Arab Emirates  | 7      |
+|  Thailand    | 15     |  China                 | 7      |
 |  Philippines | 12     |  India                 | 6      |
 |  Malaysia    | 11     |  Macau                 | 4      |
-|  Hong Kong   | 10     |  Bahrain               | 1      |
+|  Hong Kong   | 11     |  Bahrain               | 1      |
 |  South Korea | 10     |  Brunei                | 1      |
 
-In the Europe we have the most unique countries, that were hosting world tour shows. However, more than 1/3 of them hosted not more than 10 such events. Countries with the biggest count of concerts are localised in western and central part of Europe. Eastern and southern Europe gets much less of those.
+In the Europe we have the most unique countries, that were hosting world tour shows. However, almost half of them hosted not more than 10 such events. Countries with the biggest count of concerts are localised in western and central part of Europe. Eastern and southern Europe gets much less of those.
 
-| Country     | Count | Country        | Count | Country          | Count | Country            | Count |
-|-------------|------:|----------------|------:|------------------|------:|------------------------|---|
-| Germany     |   405 | Denmark        |    71 | Hungary          |    21 | Monaco                 | 3 |
-| England     |   390 | Austria        |    60 | Greece           |    16 | Montenegro             | 2 |
-| France      |   212 | Scotland       |    54 | Northern Ireland |    15 | Lithuania              | 2 |
-| Italy       |   146 | Norway         |    51 | Romania          |    11 | Cyprus                 | 2 |
-| Netherlands |   139 | Poland         |    43 | Croatia          |     8 | Luxembourg             | 2 |
-| Spain       |   133 | Portugal       |    38 | Estonia          |     7 | Bosnia and Herzegovina | 1 |
-| Sweden      |    95 | Finland        |    34 | Serbia           |     7 | Latvia                 | 1 |
-| Ireland     |    92 | Wales          |    33 | Turkey           |     5 | Slovenia               | 1 |
-| Belgium     |    80 | Czech Republic |    28 | Bulgaria         |     5 | Malta                  | 1 |
-| Switzerland |    77 | Russia         |    23 | Iceland          |     3 | Slovakia               | 1 |
+| Country     | Count | Country        | Count | Country          | Count | Country                | Count |
+|-------------|------:|----------------|------:|------------------|------:|------------------------|------:|
+|   Germany   |  411  |     Denmark    |   71  |      Hungary     |   22  |       Luxembourg       |   3   |
+| England     | 381   | Austria        | 60    | Greece           | 16    | Monaco                 | 3     |
+| France      | 209   | Scotland       | 57    | Northern Ireland | 15    | Montenegro             | 2     |
+| Netherlands | 144   | Norway         | 51    | Romania          | 12    | Lithuania              | 2     |
+| Italy       | 142   | Poland         | 43    | Croatia          | 8     | Cyprus                 | 2     |
+| Spain       | 135   | Portugal       | 38    | Estonia          | 7     | Bosnia and Herzegovina | 1     |
+| Sweden      | 96    | Finland        | 35    | Serbia           | 7     | Latvia                 | 1     |
+| Ireland     | 92    | Wales          | 33    | Turkey           | 6     | Slovenia               | 1     |
+| Belgium     | 83    | Czech Republic | 27    | Bulgaria         | 5     | Malta                  | 1     |
+| Switzerland | 77    | Russia         | 24    | Iceland          | 3     | Slovakia               | 1     |
 
 ### World tours distribution
-According to data, only 4 out of 49 examined tours had events hosted on all continents. 15 out of 49 were hosted on not more than 3 continents, with so-called ['The Garth Brooks World Tour (2014–2017)'](https://en.wikipedia.org/wiki/The_Garth_Brooks_World_Tour_(2014–2017)) with the world being US and Canada.
+According to data, only 5 out of 50 examined tours had events hosted on all continents. 14 out of 50 were hosted on not more than 3 continents, with so-called ['The Garth Brooks World Tour (2014–2017)'](https://en.wikipedia.org/wiki/The_Garth_Brooks_World_Tour_(2014–2017)) with the world being US and Canada.
 
 Ed Sheeran during his [÷ Tour](https://en.wikipedia.org/wiki/÷_Tour) visited 49 countries. It's the biggest number of visited countries during one tour in my dataset. Needless to say, it was one of the all-continent tours.
 
