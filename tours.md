@@ -1,0 +1,52 @@
+List of tours taken into consideration:
+
+- Farewell Yellow Brick Road
+- ÷ Tour
+- U2 360° Tour
+- Music of the Spheres World Tour †
+- Love On Tour
+- Not in This Lifetime... Tour
+- Renaissance World Tour
+- A Bigger Bang Tour
+- A Head Full of Dreams Tour
+- The Wall
+- Black Ice World Tour
+- WorldWired Tour
+- +–=÷× Tour †
+- Sticky & Sweet Tour
+- Beautiful Trauma World Tour
+- The Joshua Tree Tours 2017 and 2019
+- Vertigo Tour
+- 24K Magic World Tour
+- A Momentary Lapse of Reason Tour
+- Bad
+- Steel Wheels Tour
+- Born in the U.S.A. Tour
+- Glass Spider Tour
+- Victory Tour
+- Invisible Touch Tour
+- Break Every Rule World Tour
+- The Joshua Tree Tour
+- Voodoo Lounge Tour
+- Bridges to Babylon Tour
+- PopMart Tour
+- HIStory World Tour
+- Zoo TV Tour
+- Let's Talk About Love World Tour
+- Wildest Dreams Tour
+- The Garth Brooks World Tour
+- The Police Reunion Tour
+- Licks Tour
+- Taking Chances World Tour
+- Living Proof: The Farewell Tour
+- Magic Tour
+- The Eras Tour †
+- World's Hottest Tour
+- After Hours til Dawn Tour †
+- Summer Carnival †
+- Global Stadium Tour †
+- The Garth Brooks World Tour (2014–2017)
+- The Wall Live
+- Wrecking Ball World Tour
+- Dangerous World Tour
+- Where We Are Tour
